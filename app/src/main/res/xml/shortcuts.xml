@@ -1,0 +1,45 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/lib/android" >
+    <shortcut
+        android:shortcutId="Screen1"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/label_long_screen1"
+        android:shortcutLongLabel="@string/label_short_screen1"
+        >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.batya.shortcuttest"
+            android:targetClass="com.batya.shortcuttest.Main2Activity" />
+        <!-- more intents can go here; see below -->
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="Screen2"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/label_long_screen2"
+        android:shortcutLongLabel="@string/label_short_screen2"
+        >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.batya.shortcuttest"
+            android:targetClass="com.batya.shortcuttest.Main3Activity" />
+        <!-- more intents can go here; see below -->
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="Screen3"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/label_long_screen3"
+        android:shortcutLongLabel="@string/label_short_screen3"
+        >
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.batya.shortcuttest"
+            android:targetClass="com.batya.shortcuttest.Main4Activity" />
+        <!-- more intents can go here; see below -->
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>
+

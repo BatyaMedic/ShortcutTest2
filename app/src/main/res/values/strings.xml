@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">R34 Client</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="label_short_screen1">Screen1</string>
+    <string name="label_long_screen1">Screen1</string>
+    <string name="label_short_screen2">Screen2</string>
+    <string name="label_long_screen2">Screen2</string>
+    <string name="label_short_screen3">Screen3</string>
+    <string name="label_long_screen3">Screen3</string>
+    <string name="menu_action_setting" />
+</resources>

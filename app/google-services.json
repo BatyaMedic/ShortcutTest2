@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "307475145063",
+    "firebase_url": "https://r34c-1d63c.firebaseio.com",
+    "project_id": "r34c-1d63c",
+    "storage_bucket": "r34c-1d63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307475145063:android:fdbee3e033835965",
+        "android_client_info": {
+          "package_name": "batya.shortcuttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307475145063-r234eudmks8b61rn5qov6ulutbd97v7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "batya.shortcuttest",
+            "certificate_hash": "54F61C14888CAD5966CA7CCEF020E816FE83EFCF"
+          }
+        },
+        {
+          "client_id": "307475145063-16u0uhal86pa40umm3c4l7kn6e5j7v1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_D8OUKzou3r3U_jZ3j5z8gffvigi34bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307475145063-16u0uhal86pa40umm3c4l7kn6e5j7v1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

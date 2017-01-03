@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/webview1"
+            android:icon="@drawable/ic_insert_photo_black_24dp"
+            android:title="RULE34.PAHEAL.NET" />
+        <item
+            android:id="@+id/webview2"
+            android:icon="@drawable/ic_insert_photo_black_24dp"
+            android:title="E621.ML" />
+        <item
+            android:id="@+id/webview3"
+            android:icon="@drawable/ic_insert_photo_black_24dp"
+            android:title="RULE34.XXX" />
+        <item
+            android:id="@+id/webview4"
+            android:icon="@drawable/ic_insert_photo_black_24dp"
+            android:title="GELBOORU" />
+    </group>
+
+</menu>
